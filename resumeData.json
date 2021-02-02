@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name":"Matthew Bowen",
+    "description":"I love learning new languages! I collect them like Pokemon cards!",
+    "image":"me.jpg",
+    "bio":"I am a software devoloper and a father of two! I enjoy programming, eating my wife's food and playing games with my kids! I am hardworking and always learning new language concepts and practices.     I have also developed add-ons for popular video games using LUA. I also pick up lesser known languages fairly quickly. I have utilized different functions and languages in the projects on my github.. They range from simple projects to relatively neat and complex ones.",
+    "contactmessage":"Send me a message!",
+    "email": "mb.bowen@outlook.com",
+    "phone": "419-552-9373",
+    "github":"https://github.com/Gruzzly-bear",
+    "project":"https://github.com/Gruzzly-bear/The-Den",
+    "address":{
+      "street":"Somewhere in",
+      "city":"North Baltimore",
+      "state":"Ohio",
+      "zip": "45872"
+    },
+    "website": "https://www.gruzzly.co",
+    "resumedownload":"https://gruzzly.co/Resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/matthew-bowen-oh/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Gruzzly-bear",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here is how I rank my proficiency in development languages",
+    "education":[
+      {
+        "school":"The Tech Academy",
+        "degree":"Software Developer Bootcamp Certificate",
+        "graduated":"July 2020",
+        "description":"Intensive, boot camp-style training with more than 600 hours ofinstruction and hands-on work in: Fundamentals of Computer Science, HTML/CSS, JavaScript, C#, Python, ASP.Net, web application development, WordPress, object-oriented programming, Agile/Scrum, source control, relational database design and management, SQL programming and more."
+      }
+    ],
+    "work":[
+      {
+        "company":"Smarta",
+        "title":"Software Developer Intern",
+        "years":"Mar 2020 - Current",
+        "description":"Collaborated on all stages of systems development lifecycle, from requirement gathering to production releases. Coordinated with project management staff on database development timelines and project scope. Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development. Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and enhancements."
+      },
+      {
+        "company":"Prosper IT Consulting",
+        "title":"Full stack Intern",
+        "years":"Mar 2020 - Jul 2020",
+        "description":"Created, fixed and managed code throughout the entirety of the project. Utilized Agile/SCRUM methodologies to create a well suitable and maintainable workflow."
+      },
+      {
+        "company":"Innovative Stitching",
+        "title":"Embroiderer/Technician",
+        "years":"Jul 2015 - Current",
+        "description":"Using a CAD-like program ( Design Shop Pro), I designed files for customers, maintained computer environments and troubleshooted various issues. Fixed and maintained large mass production embroidery machines. Tech Support for the business software itself and multiple computers running windows. Managed a design file server to host the files on and pull to the machines themselves. Converted art into stitches by vectorizing and digitizing the source into a compatible format for the machines."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"70%"
+      },
+
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"LUA",
+        "level":"40%"
+      },
+      {
+        "name":"Dart/Flutter",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Twitter Bot",
+        "category":"Using python and various modules such as Tweepy and Configparser I created auto-posting bots for twitter. Was also able to upload images as well.",
+        "image":"twit.jpg",
+        "url":"https://github.com/Gruzzly-bear/The-Den/tree/master/TwitterBot"
+      },
+      {
+        "title":"Facebook Bot",
+        "category":"I created a multi-functional Facebook auto posting bot using Python and various modules. It pulls information from a config.",
+        "image":"fb.jpg",
+        "url":"https://github.com/Gruzzly-bear/The-Den/tree/master/Facebook%20Bot"
+      },
+      {
+        "title":"Dwarven Chat Addon",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"dorf.jpg",
+        "url":"https://github.com/Gruzzly-bear/The-Den/tree/master/DwarvenChat"
+      },
+      {
+        "title":"Flutter App",
+        "category":"A test portfolio I made using Dart and Flutter.",
+        "image":"flut.jpg",
+        "url":"https://github.com/Gruzzly-bear/The-Den/tree/master/Flutter%20App"
+      },
+      {
+        "title":"All other Projects",
+        "category":"I have a lot of other projects I have worked on, you can find them here!",
+        "image":"projects.jpg",
+        "url":"https://github.com/Gruzzly-bear/The-Den/blob/master/README.md"
+      }
+    ]
+  }
+}
