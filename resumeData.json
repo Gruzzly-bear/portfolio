@@ -1,12 +1,13 @@
 {
   "main": {
     "name":"Matthew Bowen",
-    "description":"I love learning new languages! I collect them like Pokemon cards!",
+    "description":"I enjoy learning new programming languages and concepts!  Check my Github to see which one I'm currently learning!",
     "image":"me.jpg",
     "bio":"I am a software devoloper and a father of two! I enjoy programming, eating my wife's food and playing games with my kids! I am hardworking and always learning new language concepts and practices.     I have also developed add-ons for popular video games using LUA. I also pick up lesser known languages fairly quickly. I have utilized different functions and languages in the projects on my github.. They range from simple projects to relatively neat and complex ones.",
     "contactmessage":"Send me a message!",
     "email": "mb.bowen@outlook.com",
     "phone": "419-552-9373",
+    "linkedin": "https://www.linkedin.com/in/matthew-bowen-oh",
     "github":"https://github.com/Gruzzly-bear",
     "project":"https://github.com/Gruzzly-bear/The-Den",
     "address":{
@@ -20,7 +21,7 @@
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/matthew-bowen-oh/",
+        "url":"https://www.linkedin.com/in/matthew-bowen-oh",
         "className":"fa fa-linkedin"
       },
       {
@@ -93,31 +94,31 @@
       {
         "title":"Twitter Bot",
         "category":"Using python and various modules such as Tweepy and Configparser I created auto-posting bots for twitter. Was also able to upload images as well.",
-        "image":"twit.jpg",
+        "image":"twit.png",
         "url":"https://github.com/Gruzzly-bear/The-Den/tree/master/TwitterBot"
       },
       {
         "title":"Facebook Bot",
         "category":"I created a multi-functional Facebook auto posting bot using Python and various modules. It pulls information from a config.",
-        "image":"fb.jpg",
+        "image":"fb.png",
         "url":"https://github.com/Gruzzly-bear/The-Den/tree/master/Facebook%20Bot"
       },
       {
         "title":"Dwarven Chat Addon",
         "category":"Website I built for a restaurant I like in Thailand",
-        "image":"dorf.jpg",
+        "image":"dorf.png",
         "url":"https://github.com/Gruzzly-bear/The-Den/tree/master/DwarvenChat"
       },
       {
         "title":"Flutter App",
         "category":"A test portfolio I made using Dart and Flutter.",
-        "image":"flut.jpg",
+        "image":"flut.png",
         "url":"https://github.com/Gruzzly-bear/The-Den/tree/master/Flutter%20App"
       },
       {
         "title":"All other Projects",
         "category":"I have a lot of other projects I have worked on, you can find them here!",
-        "image":"projects.jpg",
+        "image":"projects.png",
         "url":"https://github.com/Gruzzly-bear/The-Den/blob/master/README.md"
       }
     ]
